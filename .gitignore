@@ -62,3 +62,9 @@ typings/
 
 # virtualenv
 venv
+
+# python
+__pycache__
+
+# config
+.config
